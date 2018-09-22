@@ -1,0 +1,19 @@
+@media only screen and (max-width: 450px) {
+  html {
+    padding: 0;
+  }
+  #reviews-container {
+    padding: 0;
+  }
+  h2 {
+    text-align: center;
+  }
+
+}
+
+@media screen and (min-width: 800px) {
+  #restaurant-img {
+    height: 500px;
+  }
+
+}
